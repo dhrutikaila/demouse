@@ -1,3 +1,0 @@
-Creating Branches
-Checkout of the branch
-How to resolve conflicts
