@@ -3,3 +3,4 @@ impdata
 https://rxtrainees.radixweb.net/
 https://tutorials.rxtrainees.radixweb.net/redmine-git-ppt/
 tutorials  :: https://tortoisesvn.net/downloads.html
+rxtest01 & rxtest02 / Rx@Test@2021
